@@ -1,0 +1,9 @@
+/fe/target
+/fe/.classpath
+/fe/.project
+/fe/.settings
+/fe/node
+/fe/node_modules
+/.project
+parent/.project
+.idea/
