@@ -1,6 +1,8 @@
-# springBoot-React--boilerplate
-it's Spring boot and React boilerplate  
-[if you want know implementation process](http://anomie7.tistory.com/37)
+# spring-react-example
+* anomie7 님의 샘플 프로젝트 기반 구성을 재업로드  
+    - target url : https://github.com/anomie7/springBoot-React--boilerplate  
+    - [if you want know implementation process](http://anomie7.tistory.com/37))
+    
 ## structure
 backend: spring-boot 1.5.7.RELEASE  
 frontend: react ver 16.0.0 && webpack: ver 3.7.1  
